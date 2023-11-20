@@ -1,7 +1,7 @@
 # Usuários API
 
 Esta API foi desenvolvida utilizando ASP.NET Core 7 e segue a arquitetura DDD para implementar um CRUD de usuário, utilizando autenticação JWT. 
-Conta também com interfaces e injeção de dependência para facilitar a manutenção e testabilidade do código.
+Conta também com mensageria para envio de email (rabbitmq), interfaces e injeção de dependência para facilitar a manutenção e testabilidade do código.
 
 ## Estrutura do Projeto
 
